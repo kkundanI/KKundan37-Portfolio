@@ -5,8 +5,8 @@ import { useRef } from "react"
 
 const skillCategories = [
   {
-    title: "Programming Languages",
-    skills: ["C", "C++", "Python", "JavaScript", "SQL","Java"],
+    title: "Languages & Technologies",
+    skills: ["C", "C++", "Python", "JavaScript", "SQL","Java", "HTML5", "CSS"],
   },
   {
     title: "Frameworks & Libraries",
