@@ -127,7 +127,7 @@ export function HeroSection() {
               <div className="w-64 h-64 sm:w-80 sm:h-80 rounded-full bg-gradient-to-br from-primary/20 to-primary/5 flex items-center justify-center">
                 <div className="w-56 h-56 sm:w-72 sm:h-72 rounded-full bg-muted border-2 border-border overflow-hidden">
                   <img
-                    src="/images/gemini-generated-image-dgnccpdgnccpdgnc.png"
+                    src="/images/Kundan_image.png"
                     alt="Kundan Kumar"
                     className="w-full h-full object-cover"
                   />
